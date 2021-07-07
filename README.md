@@ -1,2 +1,2 @@
 # kollbak-app
-A repository to hold versions of Kollbak App
+A repository to hold production versions of the Kollbak App
